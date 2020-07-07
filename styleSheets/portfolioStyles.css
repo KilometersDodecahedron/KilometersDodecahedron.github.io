@@ -71,6 +71,7 @@ figcaption p {
     font-size: 20px;
     padding: 6px 0px;
     visibility: hidden;
+    margin-bottom: 100px;
 }
 
 .imageInText {
@@ -83,6 +84,7 @@ figcaption p {
 .jumbotron {
     margin-left: 15px;
     margin-right: 15px;
+    margin-bottom: 75px;
     max-width: 992px;
     background-color: lightpink;
 }
